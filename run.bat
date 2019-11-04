@@ -1,0 +1,1 @@
+node C:\projects\image-masher\app.js %cd%

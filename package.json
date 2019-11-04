@@ -1,0 +1,12 @@
+{
+  "name": "image-masher",
+  "version": "1.0.0",
+  "main": "cli.js",
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "^0.20.3"
+  },
+  "bin": {
+    "image-mash": "cli.js"
+  }
+}
